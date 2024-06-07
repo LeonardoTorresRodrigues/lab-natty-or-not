@@ -10,7 +10,7 @@ O projeto Futuro nos Trilhos mostra o quão importante é para o Brasil ter um s
 - Framer - **Criação do site**
 
 ## 🧐 Processo de Criação
-Sou um fã de trens e sei como são precarizados no Brasil. Então a ideia foi gerar um texto que mostra-se o quão benéfico seria ter uma estrutura ferroviaria avançada.
+Sou um fã de trens e sei como são precarizados no Brasil. Então a ideia foi gerar um texto que mostra-se o quão benéfico seria ter uma estrutura ferroviária avançada.
 
 Gerei uma primeira versão utilizando o Gemini 1.5 Flash, que ficou curta e repetitiva. Então peguei esse texto gerado e passei para o Gemini 1.5 Pro, o que me agradou muito, pois gerou um texto muito mais interessante e bem escrito, seguindo o que ja tinha sido feito anteriormente.
 
