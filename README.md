@@ -25,3 +25,5 @@ Tanto o site como o artigo me apresetam resultados fantásticos com textos diver
 
 ## 💭 Reflexão (Opcional)
 Foi muito divertido e desafiador criar tudo isso apenas usando I.A. É muito bom ter ferramentas como essa para facilitar a criação de conteúdo.
+
+*#LabDIONattyOrNot*
