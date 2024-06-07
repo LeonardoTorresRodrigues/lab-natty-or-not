@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Futuro nos Trilhos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto Futuro nos Trilhos mostra o quão importante é para o Brasil ter um sistema ferroviario avançado. Todo o site e conteúdos foi gerado por Inteligência Artificial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Gemini 1.5 Flash - **Geração de texto**
+- Gemini 1.5 Pro - **Geração de texto**
+- Leonardo A.I - **Geração de imagem**
+- Framer - **Criação do site**
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Sou um fã de trens e sei como são precarizados no Brasil. Então a ideia foi gerar um texto que mostra-se o quão benéfico seria ter uma estrutura ferroviaria avançada.
+
+Gerei uma primeira versão utilizando o Gemini 1.5 Flash, que ficou curta e repetitiva. Então peguei esse texto gerado e passei para o Gemini 1.5 Pro, o que me agradou muito, pois gerou um texto muito mais interessante e bem escrito, seguindo o que ja tinha sido feito anteriormente.
+
+Logo após isso parti para as imagens. Gerei algumas dezenas de imagens no Leonardo A.I e selecionei as melhores para entrar para o artigo.
+
+Por fim montei o site utilizando o Framer. Ainda tive que modificar muita coisa, como: links, posicionamentos e responsividade. Porém o Framer me gerou o site praticamente completo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Tanto o site como o artigo me apresetam resultados fantásticos com textos divertidos e pouco entediantes.
+
+[Confira aqui](https://trensdofuturo.framer.website/)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Foi muito divertido e desafiador criar tudo isso apenas usando I.A. É muito bom ter ferramentas como essa para facilitar a criação de conteúdo.
